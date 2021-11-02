@@ -13,7 +13,7 @@
     <h2>Instructions</h2>
     <ul>
         <li>As Player A, throw a "model pig" ... each of which has a dot on one side.</li>
-        <li>You will receives points based on the way the pig lands:</li>
+        <li>You will receive points based on the way the pig lands:</li>
         <ul>
             <li><strong>Sider</strong>: The pig is lying on its side [<u>0</u> Points]</li>
             <li><strong>Razorback</strong>: The pig is lying on its back [<u>5</u> Points]</li>
@@ -21,7 +21,7 @@
             <li><strong>Snouter</strong>: The pig is leaning on its snout [<u>15</u> Points]</li>
             <li><strong>Leaning Jowler</strong>: The pig is leaning on its snout and ear [<u>20</u> Points]</li>
         </ul>
-        <li>As Player B, I'll throw a pig as well.</li>
+        <li>As Player B, I will throw a pig as well.</li>
         <li>The winner is the player with the highest score.</li>
     </ul>
 
@@ -74,8 +74,8 @@
 
     <h2>Results</h2>
     <ul>
-        <li>Player A threw a <?php echo $pigs[$p1]; ?></li>
-        <li>Player B threw a <?php echo $pigs[$p2]; ?></li>
+        <li>Player A (<strong>You</strong>) threw a <?php echo $pigs[$p1]; ?></li>
+        <li>Player B (<strong>Me</strong>, <i>the Computer</i>) threw a <?php echo $pigs[$p2]; ?></li>
         <li><u>Winner</u>: <?php echo $winner; ?></li>
     </ul>
 
