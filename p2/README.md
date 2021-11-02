@@ -2,7 +2,7 @@
 + By: Allan Glass
 + URL: <http://e2p2.allan.glass>
 
-## Game Planning
+## Game Playing
 + Player A and Player B each throw a "model pig" ... each of which has a dot on one side.
 + The player receives points based on the way the pig lands:
 + ~ Sider: The pig is lying on its side [0 Points]
